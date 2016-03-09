@@ -9,6 +9,6 @@ App cordova para prueba del plugin inappbrowser en iOS
 
 ### Plugins ###
 
-cordova-plugin-inappbrowser 1.3.0 "InAppBrowser"
-cordova-plugin-whitelist 1.2.1 "Whitelist"
+* cordova-plugin-inappbrowser 1.3.0 "InAppBrowser"
+* cordova-plugin-whitelist 1.2.1 "Whitelist"
 
